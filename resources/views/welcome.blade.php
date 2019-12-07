@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Rahma Suhita
+                    Rahma S
                 </div>
 
                 <div class="links">
